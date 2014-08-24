@@ -10,3 +10,31 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+gcm-demo-client/.classpath
+gcm-demo-client/.project
+gcm-demo-client/AndroidManifest.xml
+gcm-demo-client/README
+gcm-demo-client/.settings/org.eclipse.jdt.core.prefs
+gcm-demo-client/res/drawable-hdpi/ic_launcher.png
+gcm-demo-client/res/drawable-hdpi/ic_stat_gcm.png
+gcm-demo-client/res/drawable-hdpi-v11/ic_stat_gcm.png
+gcm-demo-client/res/drawable-hdpi-v9/ic_stat_gcm.png
+gcm-demo-client/res/drawable-ldpi/ic_launcher.png
+gcm-demo-client/res/drawable-ldpi/ic_stat_gcm.png
+gcm-demo-client/res/drawable-ldpi-v11/ic_stat_gcm.png
+gcm-demo-client/res/drawable-ldpi-v9/ic_stat_gcm.png
+gcm-demo-client/res/drawable-mdpi/ic_launcher.png
+gcm-demo-client/res/drawable-mdpi/ic_stat_gcm.png
+gcm-demo-client/res/drawable-mdpi-v11/ic_stat_gcm.png
+gcm-demo-client/res/drawable-mdpi-v9/ic_stat_gcm.png
+gcm-demo-client/res/drawable-xhdpi/ic_launcher.png
+gcm-demo-client/res/drawable-xhdpi/ic_stat_gcm.png
+gcm-demo-client/res/drawable-xhdpi-v11/ic_stat_gcm.png
+gcm-demo-client/res/drawable-xhdpi-v9/ic_stat_gcm.png
+gcm-demo-client/res/layout/main.xml
+gcm-demo-client/res/menu/options_menu.xml
+gcm-demo-client/res/values/strings.xml
+gcm-demo-client/src/com/google/android/gcm/demo/app/CommonUtilities.java
+gcm-demo-client/src/com/google/android/gcm/demo/app/DemoActivity.java
+gcm-demo-client/src/com/google/android/gcm/demo/app/GCMIntentService.java
+gcm-demo-client/src/com/google/android/gcm/demo/app/ServerUtilities.java
