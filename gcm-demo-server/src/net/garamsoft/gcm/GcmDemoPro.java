@@ -28,7 +28,16 @@ public class GcmDemoPro extends HttpServlet {
 	 * @see HttpServlet#service(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+
+		log("charset : " + request.getCharacterEncoding());
+		
 		String regId = request.getParameter("regId");
+		log("1 : regId : " + regId);
+		
+		request.setCharacterEncoding("UTF-8");
+		
+		regId = request.getParameter("regId");
+		log("1 : regId : " + regId);
 		
 		String pathname = getServletContext().getRealPath("/gcm_reg");
 		String fileName = "gcm_id";
