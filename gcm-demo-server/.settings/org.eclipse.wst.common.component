@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="gcm-deom-server">
+    <wb-module deploy-name="gcm-demo-server">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src-java-util"/>
-        <property name="context-root" value="gcm-deom-server"/>
-        <property name="java-output-path" value="/gcm-deom-server/build/classes"/>
+        <property name="java-output-path" value="/gcm-demo-server/build/classes"/>
+        <property name="context-root" value="gcm-demo-server"/>
     </wb-module>
 </project-modules>
